@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kranozia web site<br>🔭 CTO at Souche IT<br>🌱 I’m currently learning NestJs<br>📫 How to reach me elhilali.mad@gmail.com
+🔭 I’m currently working on Kranozia web site<br>🔭 CTO at Souche IT / Developper at Kranozia <br>🌱 I’m currently learning NestJs<br>📫 How to reach me elhilali.mad@gmail.com
 
 
 # 💻 Tech Stack:
